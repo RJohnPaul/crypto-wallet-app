@@ -16,12 +16,11 @@ To get started with SRMCrypt, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/srmcrypt.git
+   git clone https://github.com/RJohnPaul/crypto-wallet-app.git
    ```
 
 2. **Install Dependencies:**
    ```bash
-   cd srmcrypt
    npm install
    ```
 
@@ -71,6 +70,6 @@ SRMCrypt was made possible thanks to the following technologies and resources:
 
 ## Contact
 
-For any inquiries or feedback, please contact us at your-email@example.com.
+For any inquiries or feedback, please contact [here](https://john-porfolio.vercel.app/contact).
 
 Thank you for using SRMCrypt! Happy crypto managing! 🚀🔒
