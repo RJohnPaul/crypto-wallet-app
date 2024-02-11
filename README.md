@@ -1,5 +1,12 @@
 # SRMCrypt - Crypto Wallet with MaskAPI Integration
 
+<div align="center">
+  <br>
+      <img src="https://github.com/RJohnPaul/Todolist_app/blob/b8048f89d1f89fb0dd7e80367fd5823ebea49767/todolist.png" alt="Project Banner">
+  </br>
+</div>
+</br>
+
 SRMCrypt is a crypto wallet web application built on Next.js and Tailwind CSS. It features MaskAPI integration for secure crypto transfers and utilizes smart contracts for enhanced functionality. This project was developed for a hackathon, focusing on providing a clean UI interface for seamless crypto transactions.
 
 ## Features
