@@ -2,7 +2,7 @@
 
 <div align="center">
   <br>
-      <img src="https://github.com/RJohnPaul/crypto-wallet-app/blob/3e69cf562766a76b6164897a1f164b431f1b77a2/srmcrypt.pngg" alt="Project Banner">
+      <img src="https://github.com/RJohnPaul/crypto-wallet-app/blob/3e69cf562766a76b6164897a1f164b431f1b77a2/srmcrypt.png" alt="Project Banner">
   </br>
 </div>
 </br>
